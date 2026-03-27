@@ -1,0 +1,3 @@
+Name: Alice, ID: 101, Average: 84.3333, Category: Distinction
+Name: Bob, ID: 102, Average: 45, Category: Fail
+Name: Charlie, ID: 103, Average: 71.3333, Category: Pass
